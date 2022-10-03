@@ -1,2 +1,2 @@
 
-# Mini calculadora utilizando o método DOM
+# Mini 🖩 utilizando o método DOM
