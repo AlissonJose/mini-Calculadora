@@ -1,2 +1,2 @@
-# mini-Calculadora
-Mini calculadora utilizando o método DOM
+
+# Mini calculadora utilizando o método DOM
